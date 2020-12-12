@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: butadora3 # Your GitHub username
 repo: upptime # Your Github repository name
 
 # Add your sites here
@@ -29,6 +29,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

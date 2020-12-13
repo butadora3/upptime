@@ -8,6 +8,8 @@ sites:
     url: https://butadora.com
   - name: oishiipp page
     url: https://01c.cloud
+  - name: oishiipp dogrep page
+    url: https://dogrep.01c.cloud
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.butadora.com
@@ -24,3 +26,50 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+i18n:
+  activeIncidents: 発生中のインシデント
+  allSystemsOperational: すべてのシステムが正常に稼働中
+  incidentReport: "#$NUMBER 件のインシデントが発生中 →"
+  activeIncidentSummary: $POSTS が $DATE に発生
+  incidentTitle: インシデント $NUMBER
+  incidentDetails: インシデントの詳細
+  incidentFixed: 復旧済
+  incidentOngoing: 発生中
+  # incidentOpenedAt: Opened at
+  # incidentClosedAt: Closed at
+  incidentSubscribe: 更新を通知する
+  incidentViewOnGitHub: Githubで開く
+  incidentCommentSummary: $DATE に $AUTHOR が起票
+  incidentBack: ← すべてのインシデントに戻る
+  pastIncidents: 過去のインシデント
+  pastIncidentsResolved: $POSTS は $MINUTES 分で復旧
+  liveStatus: 現在の状態
+  overallUptime: "稼働率: $UPTIME"
+  overallUptimeTitle: 稼働率
+  averageResponseTime: "平均応答時間: $TIMEms"
+  averageResponseTimeTitle: 平均応答時間
+  sevelDayResponseTime: 1週間の平均応答時間
+  responseTimeMs: 応答時間 [ms]
+  up: アップ
+  down: ダウン
+  degraded: デグレード
+  ms: ms
+  loading: 読込中
+  navGitHub: GitHub
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  # rateLimitExceededTitle: Rate limit exceedeed
+  # rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  # rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  # rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  # rateLimitExceededErrorHowCanFix: How can I fix it?
+  # rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  # rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  # rateLimitExceededHasSet: You have a personal access token set.
+  # rateLimitExceededRemoveToken: Remove token
+  # rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  # rateLimitExceededCopyPastePAT: Copy and paste your token
+  # rateLimitExceededSaveToken: Save token
+  # errorTitle: An error occurred
+  # errorIntro: An error occurred in trying to get the latest status details.
+  # errorText: You can try again in a few moments.
+  # errorHome: Go to the homepage

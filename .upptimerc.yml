@@ -10,6 +10,8 @@ sites:
     url: https://01c.cloud
   - name: oishiipp dogrep page
     url: https://dogrep.01c.cloud
+  - name: take01x.okinawa
+    url: https://www.take01x.okinawa
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.butadora.com

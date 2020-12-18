@@ -4,9 +4,9 @@
     "url": "https://butadora.com",
     "icon": "https://favicons.githubusercontent.com/butadora.com",
     "slug": "butadora-pgae",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 268,
     "timeMonth": 268,
     "timeYear": 268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-18": 0
+    }
   },
   {
     "name": "oishiipp page",

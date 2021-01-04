@@ -42,9 +42,9 @@
     "url": "https://dogrep.01c.cloud",
     "icon": "https://favicons.githubusercontent.com/dogrep.01c.cloud",
     "slug": "oishiipp-dogrep-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 777,
     "timeMonth": 753,
     "timeYear": 753,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-04": 0
+    }
   },
   {
     "name": "take01x.okinawa",

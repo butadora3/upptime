@@ -62,9 +62,9 @@
     "url": "https://www.take01x.okinawa",
     "icon": "https://favicons.githubusercontent.com/www.take01x.okinawa",
     "slug": "take01x-okinawa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,6 +73,8 @@
     "timeWeek": 10663,
     "timeMonth": 10653,
     "timeYear": 10653,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-11": 0
+    }
   }
 ]

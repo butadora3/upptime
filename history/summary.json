@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 276,
-    "timeDay": 246,
-    "timeWeek": 272,
-    "timeMonth": 276,
-    "timeYear": 276,
+    "time": 278,
+    "timeDay": 322,
+    "timeWeek": 279,
+    "timeMonth": 278,
+    "timeYear": 278,
     "dailyMinutesDown": {
       "2020-12-18": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 413,
-    "timeWeek": 415,
-    "timeMonth": 373,
-    "timeYear": 373,
+    "time": 376,
+    "timeDay": 474,
+    "timeWeek": 419,
+    "timeMonth": 376,
+    "timeYear": 376,
     "dailyMinutesDown": {}
   },
   {
@@ -45,14 +45,14 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 764,
-    "timeDay": 831,
-    "timeWeek": 798,
-    "timeMonth": 764,
-    "timeYear": 764,
+    "time": 765,
+    "timeDay": 797,
+    "timeWeek": 781,
+    "timeMonth": 765,
+    "timeYear": 765,
     "dailyMinutesDown": {
       "2021-01-04": 33
     }
@@ -63,18 +63,19 @@
     "icon": "https://favicons.githubusercontent.com/www.take01x.okinawa",
     "slug": "take01x-okinawa",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.01%",
+    "uptimeDay": "12.27%",
+    "uptimeWeek": "87.47%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "97.01%",
     "time": 10653,
-    "timeDay": 7633,
-    "timeWeek": 10663,
+    "timeDay": 0,
+    "timeWeek": 9944,
     "timeMonth": 10653,
     "timeYear": 10653,
     "dailyMinutesDown": {
-      "2021-01-11": 0
+      "2021-01-12": 33,
+      "2021-01-11": 1231
     }
   }
 ]

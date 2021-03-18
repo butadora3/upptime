@@ -55,7 +55,7 @@
     "uptime": "74.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "20.85%",
+    "uptimeMonth": "20.83%",
     "uptimeYear": "74.60%",
     "time": 769,
     "timeDay": 0,
@@ -63,7 +63,7 @@
     "timeMonth": 768,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2021-03-18": 888,
+      "2021-03-18": 895,
       "2021-03-17": 1440,
       "2021-03-16": 1440,
       "2021-03-15": 1440,
@@ -96,17 +96,17 @@
     "url": "https://www.take01x.okinawa",
     "icon": "https://favicons.githubusercontent.com/www.take01x.okinawa",
     "slug": "take01x-okinawa",
-    "status": "up",
-    "uptime": "95.08%",
-    "uptimeDay": "66.28%",
-    "uptimeWeek": "69.29%",
-    "uptimeMonth": "84.64%",
-    "uptimeYear": "95.08%",
-    "time": 3314,
-    "timeDay": 2501,
-    "timeWeek": 2598,
-    "timeMonth": 2760,
-    "timeYear": 3314,
+    "status": "down",
+    "uptime": "95.18%",
+    "uptimeDay": "66.27%",
+    "uptimeWeek": "69.36%",
+    "uptimeMonth": "84.97%",
+    "uptimeYear": "95.18%",
+    "time": 3309,
+    "timeDay": 2424,
+    "timeWeek": 2584,
+    "timeMonth": 2756,
+    "timeYear": 3309,
     "dailyMinutesDown": {
       "2021-03-18": 356,
       "2021-03-17": 334,
@@ -122,7 +122,7 @@
       "2021-03-07": 610,
       "2021-03-06": 559,
       "2021-03-05": 469,
-      "2021-03-04": 458
+      "2021-03-04": 311
     }
   }
 ]

@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/butadora.com",
     "slug": "butadora-pgae",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "99.14%",
+    "uptimeYear": "99.15%",
     "time": 478,
     "timeDay": 318,
     "timeWeek": 1020,
@@ -67,7 +67,7 @@
     "timeMonth": 0,
     "timeYear": 770,
     "dailyMinutesDown": {
-      "2021-07-29": 726,
+      "2021-07-29": 789,
       "2021-07-28": 1440,
       "2021-07-27": 1440,
       "2021-07-26": 1440,
@@ -233,12 +233,12 @@
     "url": "https://www.take01x.okinawa",
     "icon": "https://favicons.githubusercontent.com/www.take01x.okinawa",
     "slug": "take01x-okinawa",
-    "status": "up",
-    "uptime": "82.75%",
-    "uptimeDay": "96.62%",
+    "status": "down",
+    "uptime": "82.76%",
+    "uptimeDay": "96.61%",
     "uptimeWeek": "98.33%",
     "uptimeMonth": "98.52%",
-    "uptimeYear": "82.75%",
+    "uptimeYear": "82.76%",
     "time": 3533,
     "timeDay": 17325,
     "timeWeek": 9369,
@@ -306,7 +306,7 @@
       "2021-03-12": 175,
       "2021-03-11": 596,
       "2021-03-10": 641,
-      "2021-03-09": 195
+      "2021-03-09": 164
     }
   }
 ]

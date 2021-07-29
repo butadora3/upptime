@@ -56,18 +56,18 @@
     "icon": "https://favicons.githubusercontent.com/dogrep.01c.cloud",
     "slug": "oishiipp-dogrep-page",
     "status": "down",
-    "uptime": "31.05%",
+    "uptime": "31.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "31.05%",
+    "uptimeYear": "31.04%",
     "time": 770,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 770,
     "dailyMinutesDown": {
-      "2021-07-29": 1050,
+      "2021-07-29": 1136,
       "2021-07-28": 1440,
       "2021-07-27": 1440,
       "2021-07-26": 1440,
@@ -233,12 +233,12 @@
     "url": "https://www.take01x.okinawa",
     "icon": "https://favicons.githubusercontent.com/www.take01x.okinawa",
     "slug": "take01x-okinawa",
-    "status": "up",
-    "uptime": "82.75%",
-    "uptimeDay": "86.62%",
+    "status": "down",
+    "uptime": "82.77%",
+    "uptimeDay": "86.61%",
     "uptimeWeek": "96.90%",
     "uptimeMonth": "98.19%",
-    "uptimeYear": "82.75%",
+    "uptimeYear": "82.77%",
     "time": 3577,
     "timeDay": 15864,
     "timeWeek": 10711,
@@ -306,7 +306,7 @@
       "2021-03-12": 175,
       "2021-03-11": 596,
       "2021-03-10": 641,
-      "2021-03-09": 101
+      "2021-03-09": 56
     }
   }
 ]
